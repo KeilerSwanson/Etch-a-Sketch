@@ -1,0 +1,72 @@
+/* Header */
+
+#header {
+    text-align: center;
+    padding: 0px auto;
+    font-family: "Cute Font";
+    font-size: 38px;
+    margin: 0px auto;
+}
+
+h1 {
+    margin: 0px auto;
+}
+
+/* Control Panel */
+
+#control-panel {
+    text-align: center;
+    padding: 0px 50px;
+}
+
+.control {
+    display: inline-block;
+    margin: 0px 20px;
+    padding: 15px 25px;
+    color: black;
+    background: white;
+    border: solid 1px black;
+}
+
+.shake, .new-grid, .color-select {
+    padding: 10px 20px;
+    margin: auto 20px;
+    background: transparent;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 0px 10px 10px yellow;
+    border: solid 0.5px yellow;
+    font-size: 18px;
+}
+
+/* Grid */
+
+#grid-container {
+    text-align: center;
+}
+
+.grid, .row, .col {
+    border: solid 1px black;
+}
+
+.grid {
+    height: 525px;
+    width: 525px;
+    margin: 30px auto 30px auto;
+    border-spacing: 0px;
+}
+
+.row {
+    padding: 0px;
+}
+
+/* Background */
+
+body {
+    background: linear-gradient(rgb(162, 0, 255), yellow);
+}
+
+
+
+
+
