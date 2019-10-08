@@ -1,3 +1,3 @@
 ## Description
 
-A simple Etch-a-Sketch.
+A simple mouse drag Etch-a-Sketch.  Resizable, and black/white or color.
